@@ -23,7 +23,7 @@
 
 On this app was developed the <b>Shimmer Effect</b> allows you to create the <b>Skeletons Screens</b>.<br/>
 With this effect, the experience for the end user greatly improves, by the clearest feedback he can have, to know that something is being loaded.<br/>
-some famous companies use this technique are <b>Google, Facebook, Medium and Instagram</b>.
+Some famous companies use this technique are <b>Google, Facebook, Medium and Instagram</b>.
 
 <br/>
 
