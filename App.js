@@ -21,7 +21,7 @@ export default class App extends Component {
 	}
 
 	componentDidMount() {
-		setTimeout(() => this.setState({ visible: !this.state.visible }), 5000);
+		setTimeout(() => this.setState({ visible: !this.state.visible }), 3000);
 	}
 
 	_renderRows = numberRow => {
